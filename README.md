@@ -27,4 +27,3 @@ This repository contains automation testing projects for assessment purposes.
 
 - Open the project in Katalon Studio.
 - Execute test suites from the Test Suites folder.
-- For CI/CD, use the provided build.gradle or azure-pipelines.yml configurations.
